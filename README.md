@@ -312,6 +312,6 @@ The analysis demonstrated that operational visibility and identity management ch
 
 **Mehak Bagga**
 
-Business Analyst | Data Analyst | SalesOps Analyst | RevOps Analyst
+Business Analyst | Data Analyst | SalesOps Analyst
 
 GitHub Portfolio Project
