@@ -15,6 +15,27 @@ End-to-end sales analytics project built to measure funnel performance, sender o
 
 ---
 
+## Dashboard Overview
+
+### Page 1 — Executive Funnel Summary
+Overall funnel performance and stage-wise leakage.
+<img width="910" height="504" alt="page1_executive_funnel_summary" src="https://github.com/user-attachments/assets/7f59408c-98a6-4aac-b0e3-289678ed10ec" />
+
+### Page 2 — Sender Overlap Impact Analysis
+Operational impact of multi-sender outreach.
+<img width="909" height="508" alt="page2_sender_overlap_impact" src="https://github.com/user-attachments/assets/d33f4810-c470-4bbb-9fd1-d0dc75212872" />
+
+### Page 3 — Outreach Efficiency
+Touchpoint effectiveness and diminishing returns.
+<img width="910" height="504" alt="page3_outreach_efficiency" src="https://github.com/user-attachments/assets/551c737f-27a7-45b2-a355-9b11bce2257a" />
+
+### Page 4 — Response Quality & CRM Data Quality
+Response-stage conversion and CRM duplication analysis.
+<img width="911" height="500" alt="page4_response_quality_crm_risk" src="https://github.com/user-attachments/assets/65b28976-dd50-41f3-b5aa-72b443ec6def" />
+
+
+---
+
 ## Project Overview
 
 Outbound sales teams often engage the same prospect through multiple campaigns, senders, and touchpoints. While this increases outreach coverage, it can also create duplicate engagement, ownership conflicts, CRM duplication challenges, and unreliable funnel reporting.
@@ -146,22 +167,6 @@ as the reporting grain.
 | Outreach Efficiency | Average Touchpoints, Average Touchpoints (Converted), Average Touchpoints (Non-Converted), Average Outreach Duration |
 | CRM Data Quality | CRM Duplication Rate, Duplicate Identity Conversion Rate, Single Identity Conversion Rate, Duplicate Identity Sender Overlap Rate |
 | Response Quality | Direct Requirement Conversion Rate, Meeting Interest Conversion Rate, Negative Response Rate |
-
----
-
-## Dashboard Overview
-
-### Page 1 — Executive Funnel Summary
-Overall funnel performance and stage-wise leakage.
-
-### Page 2 — Sender Overlap Impact Analysis
-Operational impact of multi-sender outreach.
-
-### Page 3 — Outreach Efficiency
-Touchpoint effectiveness and diminishing returns.
-
-### Page 4 — Response Quality & CRM Data Quality
-Response-stage conversion and CRM duplication analysis.
 
 ---
 
