@@ -4,6 +4,50 @@
 
 End-to-end sales analytics project built to measure funnel performance, sender overlap, outreach efficiency, and CRM data quality across outbound prospect journeys.
 
+---
+
+## Dashboard Overview
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<b>Page 1 — Executive Funnel Summary</b><br><br>
+
+<img src="powerbi/screenshots/page1_executive_funnel_summary.png" width="100%">
+
+</td>
+
+<td align="center" width="50%">
+
+<b>Page 2 — Sender Overlap Impact Analysis</b><br><br>
+
+<img src="powerbi/screenshots/page2_sender_overlap_impact.png" width="100%">
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+<b>Page 3 — Outreach Efficiency</b><br><br>
+
+<img src="powerbi/screenshots/page3_outreach_efficiency.png" width="100%">
+
+</td>
+
+<td align="center" width="50%">
+
+<b>Page 4 — Response Quality & CRM Data Quality</b><br><br>
+
+<img src="powerbi/screenshots/page4_response_quality_crm_risk.png" width="100%">
+
+</td>
+</tr>
+</table>
+
+---
+
 ### Tools Used
 - Excel
 - Power Query
@@ -14,28 +58,6 @@ End-to-end sales analytics project built to measure funnel performance, sender o
 - GitHub
 
 ---
-
-## Dashboard Overview
-
-### Page 1 — Executive Funnel Summary
-Overall funnel performance and stage-wise leakage.
-<img width="910" height="504" alt="page1_executive_funnel_summary" src="https://github.com/user-attachments/assets/7f59408c-98a6-4aac-b0e3-289678ed10ec" />
-
-### Page 2 — Sender Overlap Impact Analysis
-Operational impact of multi-sender outreach.
-<img width="909" height="508" alt="page2_sender_overlap_impact" src="https://github.com/user-attachments/assets/d33f4810-c470-4bbb-9fd1-d0dc75212872" />
-
-### Page 3 — Outreach Efficiency
-Touchpoint effectiveness and diminishing returns.
-<img width="910" height="504" alt="page3_outreach_efficiency" src="https://github.com/user-attachments/assets/551c737f-27a7-45b2-a355-9b11bce2257a" />
-
-### Page 4 — Response Quality & CRM Data Quality
-Response-stage conversion and CRM duplication analysis.
-<img width="911" height="500" alt="page4_response_quality_crm_risk" src="https://github.com/user-attachments/assets/65b28976-dd50-41f3-b5aa-72b443ec6def" />
-
-
----
-
 ## Project Overview
 
 Outbound sales teams often engage the same prospect through multiple campaigns, senders, and touchpoints. While this increases outreach coverage, it can also create duplicate engagement, ownership conflicts, CRM duplication challenges, and unreliable funnel reporting.
