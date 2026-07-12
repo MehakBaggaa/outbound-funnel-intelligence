@@ -258,8 +258,9 @@ as the reporting grain.
 ---
 
 ## Business Recommendations
+A detailed business interpretation and recommendation report is available in the [**business-recommendations**](business-recommendations/) folder as the **Phase 2 companion document** to this project.
 
-A detailed business interpretation and recommendation report is included in the **business-recommendations** folder as the Phase 2 companion document to this project.
+📄 **Business Process Assessment & Recommendations:** [Business_Process_Assessment_Recommendations.pdf](business-recommendations/Business_Process_Assessment_Recommendations.pdf)
 
 ### 1. Implement Identity-Level CRM Deduplication Controls
 
