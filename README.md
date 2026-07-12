@@ -259,6 +259,8 @@ as the reporting grain.
 
 ## Business Recommendations
 
+A detailed business interpretation and recommendation report is included in the **business-recommendations** folder as the Phase 2 companion document to this project.
+
 ### 1. Implement Identity-Level CRM Deduplication Controls
 
 Improve ownership visibility, reporting reliability, and outreach coordination by preventing duplicate prospect records.
@@ -315,7 +317,9 @@ outbound-funnel-intelligence/
 ├── powerbi/
 ├── docs/
 ├── presentation/
-└── assets/
+├── assets/
+└── business-recommendations/
+
 ```
 
 ## Conclusion
